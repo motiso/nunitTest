@@ -1,0 +1,7 @@
+C:\Users\moti\nunitTest\nunitTest\ExpectedExceptionExample\bin\Debug\ExpectedExceptionExample.Tests.dll
+C:\Users\moti\nunitTest\nunitTest\ExpectedExceptionExample\bin\Debug\ExpectedExceptionExample.Tests.pdb
+C:\Users\moti\nunitTest\nunitTest\ExpectedExceptionExample\bin\Debug\nunit.framework.dll
+C:\Users\moti\nunitTest\nunitTest\ExpectedExceptionExample\bin\Debug\NUnit.System.Linq.dll
+C:\Users\moti\nunitTest\nunitTest\ExpectedExceptionExample\bin\Debug\nunit.framework.xml
+C:\Users\moti\nunitTest\nunitTest\ExpectedExceptionExample\obj\Debug\ExpectedExceptionExample.Tests.dll
+C:\Users\moti\nunitTest\nunitTest\ExpectedExceptionExample\obj\Debug\ExpectedExceptionExample.Tests.pdb

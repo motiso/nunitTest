@@ -1,0 +1,7 @@
+C:\Users\moti\nunitTest\nunitTest\syntax\bin\Debug\Syntax.Tests.dll
+C:\Users\moti\nunitTest\nunitTest\syntax\bin\Debug\Syntax.Tests.pdb
+C:\Users\moti\nunitTest\nunitTest\syntax\bin\Debug\nunit.framework.dll
+C:\Users\moti\nunitTest\nunitTest\syntax\bin\Debug\NUnit.System.Linq.dll
+C:\Users\moti\nunitTest\nunitTest\syntax\bin\Debug\nunit.framework.xml
+C:\Users\moti\nunitTest\nunitTest\syntax\obj\Debug\Syntax.Tests.dll
+C:\Users\moti\nunitTest\nunitTest\syntax\obj\Debug\Syntax.Tests.pdb

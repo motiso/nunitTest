@@ -1,0 +1,8 @@
+C:\Users\moti\nunitTest\nunitTest\money\bin\Debug\Money.Tests.dll
+C:\Users\moti\nunitTest\nunitTest\money\bin\Debug\Money.Tests.pdb
+C:\Users\moti\nunitTest\nunitTest\money\bin\Debug\nunit.framework.dll
+C:\Users\moti\nunitTest\nunitTest\money\bin\Debug\NUnit.System.Linq.dll
+C:\Users\moti\nunitTest\nunitTest\money\bin\Debug\nunit.framework.xml
+C:\Users\moti\nunitTest\nunitTest\money\obj\Debug\Money.Tests.dll
+C:\Users\moti\nunitTest\nunitTest\money\obj\Debug\Money.Tests.pdb
+C:\Users\moti\nunitTest\nunitTest\money\obj\Debug\Money.csprojResolveAssemblyReference.cache
